@@ -16,7 +16,7 @@ This project analyzes bike purchase behavior using an interactive Excel dashboar
 - Slicers  
 
 ## 📷 Dashboard Preview
-![Bike Sales Dashboard](Capture0.png)
+![Bike Sales Dashboard](Capture0.PNG)
 
 ## 📁 Dataset
 The dataset includes customer demographics, income, and purchase behavior.
